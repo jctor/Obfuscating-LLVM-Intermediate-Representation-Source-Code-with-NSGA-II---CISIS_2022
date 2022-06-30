@@ -2,14 +2,14 @@
 
 As a case of study, we chose three well known algorithms in computation:
 
-1. AVL tree [1]: an algorithm that performs an order relation of the data by building
+AVL tree [1]: an algorithm that performs an order relation of the data by building
 a balanced binary tree, so that the difference between the depths of the left-most
 and right-most branches is not higher than 1.
 
-2. Hamiltonian cycle: given some graph, this algorithm finds a path that starts and
+Hamiltonian cycle: given some graph, this algorithm finds a path that starts and
 ends in the same node, traversing the other nodes exactly once.
 
-3. Huffman coding [2]: a data compression algorithm that represents symbols using
+Huffman coding [2]: a data compression algorithm that represents symbols using
 binary codes of different lengths, in such away that no code is the prefix of another.
 The most frequent symbols are assigned to shorter codes.
 
