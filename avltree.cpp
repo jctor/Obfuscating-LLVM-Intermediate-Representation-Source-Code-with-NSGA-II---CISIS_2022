@@ -2,9 +2,6 @@
  * \file
  * \brief A simple tree implementation using nodes
  *
- * \todo update code to use C++ STL library features and OO structure
- * \warning This program is a poor implementation and does not utilize any of
- * the C++ STL features.
  */
 #include <algorithm>
 #include <iostream>
